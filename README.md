@@ -22,7 +22,7 @@
 </a>
 <br>
 <a href="https://leonchu.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/-My%20Portfolio-blue />
+<img src=https://img.shields.io/badge/-My%20Portfolio-blue style="margin-bottom: 5px;"/>
 </a>	
 </ul>
 </div>
