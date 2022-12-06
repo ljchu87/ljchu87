@@ -19,6 +19,10 @@
 <br>
 <a href="mailto:ljchu87@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+<br>
+<a href="https://leonchu.netlify.app/" target="_blank">
+<img src=https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 </a>	
 </ul>
 </div>
